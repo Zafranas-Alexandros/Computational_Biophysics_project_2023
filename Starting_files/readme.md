@@ -9,7 +9,7 @@
 ->Lastly, the mutation was brought to the sequence
 
 [ There was a necessity to "re-write" some residues on the sequence with chimera,
- this was discovered after trying to run (gmx pdb2gmx). gromacs seemed to have problems with some residues,
+ this was discovered after trying to run a gromacs command (gmx pdb2gmx). gromacs seemed to have problems with some residues,
  for which the structure was incomplete. with chimera the problem was solved and 
  the gmx command could run on both final pdbs ]
 
